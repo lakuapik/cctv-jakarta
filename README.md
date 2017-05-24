@@ -10,6 +10,7 @@ Data tidak diambil dari API Jakarta langsung karena di Endpoint API Jakarta untu
 ![alt text](http://i63.tinypic.com/2dgmhww.png "Tampilan CCTV")
 
 
+Link -> [cctv-jakarta](http://jagung.net/cctv-jakarta)
 
 Semoga bermanfaat.
 
